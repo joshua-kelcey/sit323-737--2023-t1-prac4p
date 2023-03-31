@@ -7,8 +7,6 @@ npm install -s express
 npm install -s express axios
 npm install -s winston
 
-// running a program
-node ./program.js
 
 
 
